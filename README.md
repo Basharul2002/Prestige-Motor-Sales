@@ -36,7 +36,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 ____
 - [Basharul Alam Mazu](https://github.com/Basharul2002)
 - [Adnan Jami](https://github.com/Adnan1868)
-- [Nafis Islam Rohan]
+- [Nafis Islam Rohan]()
 - [Rafiah Salsabil Labanya](https://github.com/labanya29)
 
 

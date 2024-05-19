@@ -376,8 +376,8 @@ import Classes.*;
         public void actionPerformed(ActionEvent ae)
         {
           setVisible(false);
-          CustomerRegistrationForm frame = new CustomerRegistrationForm();
-          frame.setVisible(true);
+          /*/CustomerRegistrationForm frame =*/ new CustomerRegistrationForm();
+          //frame.setVisible(true);
         }
       });
 

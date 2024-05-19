@@ -1,3 +1,5 @@
+package Classes;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -6,6 +8,7 @@ import javax.swing.table.*;
 import java.io.*;
 import java.nio.file.*;
 
+import Classes.*;
 
 
 public class AdminData extends JFrame

@@ -154,13 +154,5 @@ public class CustomerProfile extends JFrame
         
         
     }
-/* 
-    public static void main(String[] args)
-    {
-        new CustomerProfile("22", "24", "23", "22", "22");
-    }
-
-*/
-
 
 }

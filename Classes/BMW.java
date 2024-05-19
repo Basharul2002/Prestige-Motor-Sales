@@ -128,12 +128,4 @@ public class BMW extends JFrame
 
     }
 
-
-/* 
-    public static void main(String args[])
-    {
-        new BMW("22", "22", "22", "22", "22");
-    }
-*/
-
 }

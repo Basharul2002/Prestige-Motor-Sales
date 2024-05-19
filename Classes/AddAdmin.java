@@ -686,10 +686,5 @@ public class AddAdmin extends JFrame
             }
         });
     }
-/* 
-    public static void main(String[] args)
-    {
-        new AddAdmin("12", "22", "22", "22", "22", "22", "22");
-    }
-    */
+
 }

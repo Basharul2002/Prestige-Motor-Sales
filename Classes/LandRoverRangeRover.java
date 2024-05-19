@@ -129,12 +129,5 @@ public class LandRoverRangeRover extends JFrame
 
 
     }
-/* 
-    public static void main(String args[])
-    {
-        new LandRoverRangeRover("22", "22", "22", "22", "22");
-    }
-*/
-
 }
 

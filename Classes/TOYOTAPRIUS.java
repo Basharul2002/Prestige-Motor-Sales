@@ -128,15 +128,7 @@ public class TOYOTAPRIUS extends JFrame
             }
         });
 
-
     }
-
-    /* 
-    public static void main(String args[])
-    {
-        new TOYOTAPRIUS("22", "22", "22", "22", "22");
-    }
-    */
     
 }
 

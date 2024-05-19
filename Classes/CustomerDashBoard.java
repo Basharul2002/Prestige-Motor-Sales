@@ -318,13 +318,4 @@ public class CustomerDashBoard extends JFrame
 
 
     }
-
-    /* 
-    public static void main(String[] args)
-    {
-        new CustomerDashBoard("H", "k", "k", "k", "k");
-    }
-
-    */
-
 }

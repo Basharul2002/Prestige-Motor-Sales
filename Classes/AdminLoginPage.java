@@ -302,14 +302,4 @@ public class AdminLoginPage extends JFrame
 
   }
 
-/* 
-
-  public static void main(String[] args)
-  {
-    AdminLoginPage Frame = new AdminLoginPage();
-    Frame.setVisible(true);
-
-  }
-
-  */
 }

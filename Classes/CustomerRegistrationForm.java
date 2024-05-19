@@ -517,18 +517,6 @@ public class CustomerRegistrationForm extends JFrame
             }
 
         });
-
-
-
     }
-/* 
-        public static void main(String[] args)
-        {
-            //setVisible(false);
-            CustomerRegistrationForm frame = new CustomerRegistrationForm();
-            frame.setVisible(true);
-        }
-
-*/
 
 }

@@ -125,17 +125,7 @@ public class FerrariRoma extends JFrame
                 frame.setVisible(true);
             }
         });
-
-
-
     }
-/* 
-    public static void main(String args[])
-    {
-        new FerrariRoma("22", "22", "22", "22", "22");
-    }
-*/
-
 
 }
 

@@ -339,16 +339,6 @@ public class ForgetPassword3 extends JFrame
             }
 
         });
-        
-    
-        
+           
     }
-/* 
-    public static void main(String[] args)
-    {
-        new ForgetPassword3();
-    }
-*/
-
-
 }

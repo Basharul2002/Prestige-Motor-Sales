@@ -330,8 +330,7 @@ import Classes.*;
                 if(passCheck==true)
                 {
                   setVisible(false);
-                  /*CustomerDashBoard frame =*/ new CustomerDashBoard(name, email, address, phoneNum, password);
-                  // frame.setVisible(true);
+                  new CustomerDashBoard(name, email, address, phoneNum, password);
                 }
 
                 else 
@@ -363,8 +362,7 @@ import Classes.*;
         public void actionPerformed(ActionEvent ae)
         {
           setVisible(false);
-          /* ForgetPassword frame = */ new ForgetPassword();
-          // frame.setVisible(true);
+          new ForgetPassword();
         }
       });
 
@@ -376,20 +374,9 @@ import Classes.*;
         public void actionPerformed(ActionEvent ae)
         {
           setVisible(false);
-          /*/CustomerRegistrationForm frame =*/ new CustomerRegistrationForm();
-          //frame.setVisible(true);
+          new CustomerRegistrationForm();    
         }
       });
-
-
-
   }
-/* 
-  public static void main(String[] args)
-  {
-    CustomerLoginPage Frame = new CustomerLoginPage();
-    Frame.setVisible(true);
-  }
-*/
 
 }

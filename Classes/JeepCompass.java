@@ -127,12 +127,6 @@ public class JeepCompass extends JFrame
         });
 
     }
-/* 
-    public static void main(String args[])
-    {
-        new JeepCompass("22", "22", "22", "22", "22");
-    }
-*/
 
 }
 

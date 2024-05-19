@@ -139,12 +139,5 @@ public class HomePage extends JFrame
     
   }
 
-/* 
-  public static void main(String[] args)
-  {
-    HomePage frame = new HomePage();
-    frame.setVisible(true);
-  }
-  */
   
 }

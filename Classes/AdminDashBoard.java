@@ -226,18 +226,6 @@ public class AdminDashBoard extends JFrame
                 showMessageDialog(null, "This feature is not available right now", "Alert", JOptionPane.WARNING_MESSAGE);
             }
         });
-
-
-    
-
-
-    }
-/* 
-    public static void main(String[] args) 
-    {
-        AdminDashBoard frame = new AdminDashBoard("22", "22", "22", "22", "22", "22", "22");
-        frame.setVisible(true);
     }
 
-    */
 }

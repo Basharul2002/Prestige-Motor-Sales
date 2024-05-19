@@ -271,11 +271,4 @@ public class Payment extends JFrame
 
     }
 
-/* 
-    public static void main(String[] args)
-    {
-        new Payment("22", "22", "22", "22", "22", "3");
-    }
-*/
-
 }

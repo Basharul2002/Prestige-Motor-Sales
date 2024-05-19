@@ -128,12 +128,6 @@ public class NissanAltima extends JFrame
         });
 
     }
-/* 
-    public static void main(String args[])
-    {
-        new NissanAltima("22", "22", "22", "22", "22");
-    }
-*/
 
 }
 

@@ -190,10 +190,4 @@ public class AdminProfile extends JFrame
         
     }
 
-    /* 
-    public static void main(String[] args)
-    {
-        new AdminProfile("22", "24", "23", "22", "22", "22" , "22");
-    }
-    */
 }

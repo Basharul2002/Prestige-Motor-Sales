@@ -307,12 +307,4 @@ public class CustomerDataForAdmin extends JFrame
 
     }
 
-    /* 
-    public static void main(String[] arg)
-    {
-        CustomerDataForAdmin frame = new CustomerDataForAdmin("22", "22", "22", "22", "22", "22", "22");
-        frame.setVisible(true);
-    }
-
-    */
 }
